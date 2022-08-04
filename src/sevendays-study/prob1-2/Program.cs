@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace prob1_1
+namespace prob1_2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I'm @rmuraix!");
+            Console.WriteLine("123456789");
         }
     }
 }
