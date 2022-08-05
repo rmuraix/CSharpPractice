@@ -11,7 +11,7 @@ namespace prob2_2
         static void Main(string[] args)
         {
             int a = 4, b = 2;
-            
+
             Console.WriteLine("a = {0}", a);
             Console.WriteLine("b = {0}", b);
             Console.WriteLine("a + b = {0}", a + b);
