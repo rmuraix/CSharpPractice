@@ -17,7 +17,7 @@ namespace prob3_2
             {
                 Console.WriteLine("4ではありません");
             }
-            
+
         }
     }
 }

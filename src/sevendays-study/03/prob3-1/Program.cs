@@ -12,12 +12,12 @@ namespace prob3_1
         {
             Console.Write("整数値を入力:");
             int num = int.Parse(Console.ReadLine());
-            
+
             if (num == 3)
             {
                 Console.WriteLine("3です");
             }
-            
+
         }
     }
 }
