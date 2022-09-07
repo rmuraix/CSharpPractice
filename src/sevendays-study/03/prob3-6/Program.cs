@@ -19,7 +19,8 @@ namespace Prob3_6
             if (a > b)
             {
                 Console.WriteLine("aはbよりも大きい");
-            }else if (a == b)
+            }
+            else if (a == b)
             {
                 Console.WriteLine("aとbは等しい");
             }
