@@ -21,6 +21,9 @@
                 case < 0:
                     Console.WriteLine("真冬日です。");
                     break;
+                default:
+                    Console.WriteLine("規定されていません。"); // Behavior not in question
+                    break;
             }
         }
     }
